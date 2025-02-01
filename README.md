@@ -1,7 +1,7 @@
 # Better way to get Discs
 Better way to get Discs is a Minecraft Mod that adds a new way to obtain discs through some crafting.
 
-![Screenshot](https://github.com/christian2608/Better-way-to-get-Discs/blob/main/desk.png)
+![Screenshot](https://github.com/christian2608/Better-way-to-get-Discs/blob/main/Images/2025-01-29_13.59.29.png)
 
 ## Downloads
 

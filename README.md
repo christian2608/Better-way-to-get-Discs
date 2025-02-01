@@ -15,7 +15,7 @@ Better way to get Discs is a Minecraft Mod that adds a new way to obtain discs t
 	<td>
       <span>Forge</span>
       <a href="">
-        <a href="(https://github.com/christian2608/Better-way-to-get-Discs/blob/main/Images/2025-01-29_13.59.29.png)">
+        <a href="https://www.curseforge.com/minecraft/mc-mods/better-way-to-get-discs/files/all?page=1&pageSize=20">
         📦 file .JAR
       </a>
       <span><br>
@@ -38,5 +38,5 @@ The following are all the names of the textures present in the mod, to create a 
 <code>better_discs:iron_tip2</code><br>
 <code>better_discs:semi3_empty_music_score</code>
 
-# Credits
+### Credits
 This mod was made with MCreator.

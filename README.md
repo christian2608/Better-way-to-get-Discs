@@ -15,7 +15,7 @@ Better way to get Discs is a Minecraft Mod that adds a new way to obtain discs t
 	<td>
       <span>Forge</span>
       <a href="">
-        <a href="https://www.curseforge.com/minecraft/mc-mods/better-way-to-get-discs/files/all?page=1&pageSize=20">
+        <a href="(https://github.com/christian2608/Better-way-to-get-Discs/blob/main/Images/2025-01-29_13.59.29.png)">
         📦 file .JAR
       </a>
       <span><br>
